@@ -11,7 +11,7 @@ This approach can be extended to any other hadith dataset.
 A sample database hadith.sql has been given to view the structure of database we have used. 
 The code and Ontology should be modified according to the respective needs (in case database structure is modified)
 The code takes the following parameters :
-1- Ontology file name and path
-2- Database file
-3- Output file name and path
-4- Database connection settings can be changed in src/dataAccess/connectionFactory.java
+1. Ontology file name and path
+2. Database file
+3. Output file name and path
+4. Database connection settings can be changed in src/dataAccess/connectionFactory.java
